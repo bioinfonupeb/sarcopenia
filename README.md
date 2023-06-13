@@ -11,7 +11,7 @@
 Avaliação do efeito pleiotrópico de subfenótipos da sarcopenia.
 
 <h2>Info</h2>
-<p>`diff.py` is a Python script that aims to compare two lists of genes, resulting in a common gene list.</p>
+<p><code>diff.py</code> is a Python script that aims to compare two lists of genes, resulting in a common gene list.</p>
 
 <h2>Project status</h2>
 Under development.
