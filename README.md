@@ -5,6 +5,7 @@
 <ul>
   <li>Isabela Drumond Fonseca <a href="#code-isabela" title="Code">💻</a> <a href="#research-isabela" title="Research">🔬</a> <a href="#maintenance-isabela" title="Maintenance">🚧</a> - Lattes: http://lattes.cnpq.br/3971412171428758</li>
   <li>Izinara Rosse da Cruz <a href="#projectManagement-izinara-cruz" title="Project Management">📆</a> <a href="#ideas-izinara-cruz" title="Ideas & Planning">🤔</a> - Lattes: http://lattes.cnpq.br/4671130343607854</li>
+  <li>Lauro Ângelo Gonçalves de Moraes </a> - Lattes: http://lattes.cnpq.br/7273329679145458</li>
 </ul>
 
 <h2>Project abstract</h2>
