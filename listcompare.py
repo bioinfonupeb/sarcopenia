@@ -1,4 +1,4 @@
-def diff(name_1, name_2):
+def listcompare(name_1, name_2):
     with open(name_1) as file_1:
         genes_1 = file_1.readlines()
         genes_1 = [gene.rstrip() for gene in genes_1]
